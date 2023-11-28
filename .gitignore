@@ -4,6 +4,8 @@
 /Intermediate/
 /Packaged/
 /Saved/
+/Android_ASTC/
+/Android_Multi/
 
 # Ignore Plugins build and temp folders
 /Plugins/**/Binaries
